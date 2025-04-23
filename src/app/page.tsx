@@ -26,7 +26,7 @@ export default function Home() {
     {
       name: "Sufiyaan Usmani",
       rollNumber: "21K-3195",
-      image: "/sufiyaan.jpg" // You'll need to add these images to the public folder
+      image: "/sufiyaan.JPG" // You'll need to add these images to the public folder
     },
     {
       name: "Muhammad Shahmir Raza",
