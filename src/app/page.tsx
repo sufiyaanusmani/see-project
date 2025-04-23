@@ -36,7 +36,7 @@ export default function Home() {
     {
       name: "Talha Shahid",
       rollNumber: "21K-3355",
-      image: "/talha.png"
+      image: "/talha.jpg"
     },
     {
       name: "Qasim Hasan",
